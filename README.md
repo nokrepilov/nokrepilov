@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id = "header" align = "center">
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBqOXg4a2Z4dTZvbWZ6dG85cnB3b250YWc0Z3pjOW43NHZkN2piayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width = "100"/>
+</div>
 
 <!--
 **nokrepilov/nokrepilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
